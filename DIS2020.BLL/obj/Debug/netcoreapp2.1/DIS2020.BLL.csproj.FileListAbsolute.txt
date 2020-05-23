@@ -1,0 +1,14 @@
+C:\Users\andrew\source\repos\DIS2020\DIS2020.BLL\bin\Debug\netcoreapp2.1\DIS2020.BLL.deps.json
+C:\Users\andrew\source\repos\DIS2020\DIS2020.BLL\bin\Debug\netcoreapp2.1\DIS2020.BLL.dll
+C:\Users\andrew\source\repos\DIS2020\DIS2020.BLL\bin\Debug\netcoreapp2.1\DIS2020.BLL.pdb
+C:\Users\andrew\source\repos\DIS2020\DIS2020.BLL\bin\Debug\netcoreapp2.1\DIS2020.DOMAIN.dll
+C:\Users\andrew\source\repos\DIS2020\DIS2020.BLL\bin\Debug\netcoreapp2.1\DIS2020.DOMAIN.pdb
+C:\Users\andrew\source\repos\DIS2020\DIS2020.BLL\obj\Debug\netcoreapp2.1\DIS2020.BLL.csprojAssemblyReference.cache
+C:\Users\andrew\source\repos\DIS2020\DIS2020.BLL\obj\Debug\netcoreapp2.1\DIS2020.BLL.csproj.CoreCompileInputs.cache
+C:\Users\andrew\source\repos\DIS2020\DIS2020.BLL\obj\Debug\netcoreapp2.1\DIS2020.BLL.AssemblyInfoInputs.cache
+C:\Users\andrew\source\repos\DIS2020\DIS2020.BLL\obj\Debug\netcoreapp2.1\DIS2020.BLL.AssemblyInfo.cs
+C:\Users\andrew\source\repos\DIS2020\DIS2020.BLL\obj\Debug\netcoreapp2.1\DIS2020.BLL.csproj.CopyComplete
+C:\Users\andrew\source\repos\DIS2020\DIS2020.BLL\obj\Debug\netcoreapp2.1\DIS2020.BLL.dll
+C:\Users\andrew\source\repos\DIS2020\DIS2020.BLL\obj\Debug\netcoreapp2.1\DIS2020.BLL.pdb
+C:\Users\andrew\source\repos\DIS2020\DIS2020.BLL\bin\Debug\netcoreapp2.1\DIS2020.INFRA.dll
+C:\Users\andrew\source\repos\DIS2020\DIS2020.BLL\bin\Debug\netcoreapp2.1\DIS2020.INFRA.pdb

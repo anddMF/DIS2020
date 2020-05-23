@@ -1,0 +1,9 @@
+C:\Users\andrew\source\repos\DIS2020\DIS2020.DOMAIN\bin\Debug\netcoreapp2.1\DIS2020.DOMAIN.deps.json
+C:\Users\andrew\source\repos\DIS2020\DIS2020.DOMAIN\bin\Debug\netcoreapp2.1\DIS2020.DOMAIN.dll
+C:\Users\andrew\source\repos\DIS2020\DIS2020.DOMAIN\bin\Debug\netcoreapp2.1\DIS2020.DOMAIN.pdb
+C:\Users\andrew\source\repos\DIS2020\DIS2020.DOMAIN\obj\Debug\netcoreapp2.1\DIS2020.DOMAIN.csproj.CoreCompileInputs.cache
+C:\Users\andrew\source\repos\DIS2020\DIS2020.DOMAIN\obj\Debug\netcoreapp2.1\DIS2020.DOMAIN.AssemblyInfoInputs.cache
+C:\Users\andrew\source\repos\DIS2020\DIS2020.DOMAIN\obj\Debug\netcoreapp2.1\DIS2020.DOMAIN.AssemblyInfo.cs
+C:\Users\andrew\source\repos\DIS2020\DIS2020.DOMAIN\obj\Debug\netcoreapp2.1\DIS2020.DOMAIN.dll
+C:\Users\andrew\source\repos\DIS2020\DIS2020.DOMAIN\obj\Debug\netcoreapp2.1\DIS2020.DOMAIN.pdb
+C:\Users\andrew\source\repos\DIS2020\DIS2020.DOMAIN\obj\Debug\netcoreapp2.1\DIS2020.DOMAIN.csprojAssemblyReference.cache

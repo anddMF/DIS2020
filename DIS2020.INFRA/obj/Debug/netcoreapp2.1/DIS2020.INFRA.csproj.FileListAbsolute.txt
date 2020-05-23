@@ -1,0 +1,8 @@
+C:\Users\andrew\source\repos\DIS2020\DIS2020.INFRA\bin\Debug\netcoreapp2.1\DIS2020.INFRA.deps.json
+C:\Users\andrew\source\repos\DIS2020\DIS2020.INFRA\bin\Debug\netcoreapp2.1\DIS2020.INFRA.dll
+C:\Users\andrew\source\repos\DIS2020\DIS2020.INFRA\obj\Debug\netcoreapp2.1\DIS2020.INFRA.csproj.CoreCompileInputs.cache
+C:\Users\andrew\source\repos\DIS2020\DIS2020.INFRA\obj\Debug\netcoreapp2.1\DIS2020.INFRA.AssemblyInfoInputs.cache
+C:\Users\andrew\source\repos\DIS2020\DIS2020.INFRA\obj\Debug\netcoreapp2.1\DIS2020.INFRA.AssemblyInfo.cs
+C:\Users\andrew\source\repos\DIS2020\DIS2020.INFRA\bin\Debug\netcoreapp2.1\DIS2020.INFRA.pdb
+C:\Users\andrew\source\repos\DIS2020\DIS2020.INFRA\obj\Debug\netcoreapp2.1\DIS2020.INFRA.dll
+C:\Users\andrew\source\repos\DIS2020\DIS2020.INFRA\obj\Debug\netcoreapp2.1\DIS2020.INFRA.pdb
